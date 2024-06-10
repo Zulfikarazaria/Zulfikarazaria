@@ -1,8 +1,5 @@
 # 👋 Hello, I'm Zulfikar Azaria Rahman !
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-
 ## About Me
 
 Welcome to my GitHub profile! With a passion for data and a knack for business strategy, I thrive on turning raw data into actionable insights. My academic background in management combined with my self-taught skills in data science and machine learning allows me to bridge the gap between business needs and technological solutions.
